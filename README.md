@@ -44,8 +44,8 @@ This project implements a basic social media platform with functionalities such 
 
 - Sanchi Sujith Kumar
 - Pilli Hamsini
-- P Revanth
-- Sahithya Chinta
+- Palaparthi Revanth
+- Sahitya Chinta
 
 ####  Demo Video
 
