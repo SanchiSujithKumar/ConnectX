@@ -1,8 +1,8 @@
-### ConnectX: Your Social Media Hub with PostgreSQL Database
+## ConnectX: Your Social Media Hub with PostgreSQL Database
 
 This project implements a basic social media platform with functionalities such as user authentication, posting, commenting, liking, and friending.
 
-#### Files
+### Files
 
 - **main.py**: Entry point of the application. Orchestrates the execution of other Python files based on user requirements.
 - **signIn.py**: Handles user authentication, allowing existing users to log in.
@@ -11,17 +11,17 @@ This project implements a basic social media platform with functionalities such 
 - **public_page.py**: Handles functionalities related to public content, including viewing and interacting with posts.
 - **post_page.py**: Manages posting, liking, commenting, and sharing functionalities.
 
-#### Folders
+### Folders
 
 - **src**: Contains all the Python files implementing the functionalities of the social media platform.
 - **database**: Contains SQL files for database schema definition and data population.
 
-#### Dependencies
+### Dependencies
 
 - **Python 3.x**
 - **psycopg2** (for PostgreSQL database interaction)
 
-#### Database Setup
+### Database Setup
 
 1. Clone the repository to your local machine.
 2. Set up the database using PostgreSQL's command-line interface (`psql`):
@@ -40,13 +40,13 @@ This project implements a basic social media platform with functionalities such 
 3. After setting up the database, run `main.py` to start the social media platform.
 4. Follow the prompts and instructions provided by `main.py` to navigate through different functionalities.
 
-#### Contributors
+### Contributors
 
 - Sanchi Sujith Kumar
 - Pilli Hamsini
 - Palaparthi Revanth
 - Sahitya Chinta
 
-####  Demo Video
+### Demo Video
 
-[Watch Demo Video](demo_video_link_here)
+[Watch Demo Video](https://youtu.be/Ongxgm564SI)
